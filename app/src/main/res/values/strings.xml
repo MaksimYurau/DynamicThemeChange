@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DynamicThemeChange</string>
+    <string name="go_to_color_change_activity">Go to color change activity!</string>
 </resources>
