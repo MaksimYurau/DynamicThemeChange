@@ -19,7 +19,7 @@
         android:background="@color/color_2" />
 
     <Button
-        android:id="@+id/go_to_color_change_activity"
+        android:id="@+id/go_to_color_change_activity_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.25"

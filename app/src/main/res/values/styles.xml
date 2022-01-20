@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PurpleComponents">
+        <item name="colorPrimary">@color/purple_700</item>
+    </style>
+
+    <style name="RedAndOrangeComponents">
+        <item name="colorPrimary">@color/color_4</item>
+    </style>
+
+    <style name="GreenComponents">
+        <item name="colorPrimary">@color/color_6</item>
+    </style>
+
+</resources>
